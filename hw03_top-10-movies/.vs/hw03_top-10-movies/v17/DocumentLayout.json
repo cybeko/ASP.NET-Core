@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEMP\\hw03_top-10-movies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|d:\\temp\\hw03_top-10-movies\\hw03_top-10-movies\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "hw03_top-10-movies\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAhwE8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:45:57.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Program.cs",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Program.cs",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Program.cs",
+              "RelativeToolTip": "hw03_top-10-movies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:17:34.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Models\\MovieContext.cs",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Models\\MovieContext.cs",
+              "RelativeToolTip": "hw03_top-10-movies\\Models\\MovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:49:58.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "hw03_top-10-movies\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T11:49:33.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "hw03_top-10-movies\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwC8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T11:49:03.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "hw03_top-10-movies\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T11:48:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "hw03_top-10-movies\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T11:48:05.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "hw03_top-10-movies\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T11:46:45.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "hw03_top-10-movies\\Models\\Movie.cs",
+              "ToolTip": "D:\\TEMP\\hw03_top-10-movies\\hw03_top-10-movies\\Models\\Movie.cs",
+              "RelativeToolTip": "hw03_top-10-movies\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:40:28.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
