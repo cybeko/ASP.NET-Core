@@ -1,0 +1,31 @@
+﻿@model List<UniversityMVC.Models.SubjectGroup>
+
+@{
+    ViewData["Title"] = "Subject Groups List";
+}
+
+<h2>Subject Groups List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Subject Name</th>
+            <th>Group Name</th>
+            <th>Teacher Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var subjectGroup in Model)
+        {
+            <tr>
+                <td>@subjectGroup.Id</td>
+                <td>@subjectGroup.Subject.Name</td>
+                <td>@subjectGroup.Group.Name</td>
+                <td>@subjectGroup.Teacher.FirstName @subjectGroup.Teacher.LastName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-primary">Back to Home</a>
