@@ -1,0 +1,27 @@
+﻿@model List<UniversityMVC.Models.Subject>
+
+@{
+    ViewData["Title"] = "Subjects List";
+}
+
+<h2>Subjects List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Subject Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var subject in Model)
+        {
+            <tr>
+                <td>@subject.Id</td>
+                <td>@subject.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-primary">Back to Home</a>

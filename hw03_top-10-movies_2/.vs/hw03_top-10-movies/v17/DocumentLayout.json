@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Programming\\ASP.NET-Core\\hw03_top-10-movies_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\Programming\\ASP.NET-Core\\hw03_top-10-movies_2\\hw03_top-10-movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|d:\\programming\\asp.net-core\\hw03_top-10-movies_2\\hw03_top-10-movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|d:\\programming\\asp.net-core\\hw03_top-10-movies_2\\hw03_top-10-movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|D:\\Programming\\ASP.NET-Core\\hw03_top-10-movies_2\\hw03_top-10-movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4F39F76B-A818-411F-B82A-FC5AAE18A3DB}|hw03_top-10-movies\\hw03_top-10-movies.csproj|solutionrelative:hw03_top-10-movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -120,7 +120,7 @@
               "RelativeDocumentMoniker": "hw03_top-10-movies\\Controllers\\MoviesController.cs",
               "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw03_top-10-movies_2\\hw03_top-10-movies\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "hw03_top-10-movies\\Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAArwDAAAAAJAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAADgvzAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T15:45:57.681Z",
               "EditorCaption": ""
@@ -147,8 +147,7 @@
               "RelativeToolTip": "hw03_top-10-movies\\Models\\MovieContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T11:49:58.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T11:49:58.72Z"
             },
             {
               "$type": "Document",
@@ -172,8 +171,7 @@
               "RelativeToolTip": "hw03_top-10-movies\\Views\\Movies\\Edit.cshtml",
               "ViewState": "AQIAADAAAAAAAAAAAAAcwE0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T11:49:03.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T11:49:03.349Z"
             },
             {
               "$type": "Document",
@@ -197,8 +195,7 @@
               "RelativeToolTip": "hw03_top-10-movies\\Views\\Movies\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAcwCcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T11:48:05.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T11:48:05.833Z"
             },
             {
               "$type": "Document",
@@ -210,8 +207,7 @@
               "RelativeToolTip": "hw03_top-10-movies\\Views\\Movies\\Create.cshtml",
               "ViewState": "AQIAACMAAAAAAAAAAAAcwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T11:46:45.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T11:46:45.349Z"
             },
             {
               "$type": "Document",
@@ -223,8 +219,7 @@
               "RelativeToolTip": "hw03_top-10-movies\\Models\\Movie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T11:40:28.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T11:40:28.229Z"
             }
           ]
         }
