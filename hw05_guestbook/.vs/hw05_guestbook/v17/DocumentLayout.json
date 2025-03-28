@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\programming\\asp.net-core\\hw05_guestbook\\hw05_guestbook\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\programming\\asp.net-core\\hw05_guestbook\\hw05_guestbook\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\programming\\asp.net-core\\hw05_guestbook\\hw05_guestbook\\models\\guestbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\guestbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\programming\\asp.net-core\\hw05_guestbook\\hw05_guestbook\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\programming\\asp.net-core\\hw05_guestbook\\hw05_guestbook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\programming\\asp.net-core\\hw05_guestbook\\hw05_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,6 +71,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Models\\RegisterModel.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "hw05_guestbook\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:12:39.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\LoginModel.cs",
+              "RelativeToolTip": "hw05_guestbook\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:12:38.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestbookModel.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\GuestbookModel.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Models\\GuestbookModel.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\GuestbookModel.cs",
+              "RelativeToolTip": "hw05_guestbook\\Models\\GuestbookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:12:38.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "hw05_guestbook\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:12:36.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Program.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Program.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Program.cs",
+              "RelativeToolTip": "hw05_guestbook\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:12:24.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GuestbookContext.cs",
               "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Models\\GuestbookContext.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Models\\GuestbookContext.cs",
@@ -58,23 +143,25 @@
               "RelativeToolTip": "hw05_guestbook\\Models\\GuestbookContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:51:35.873Z"
+              "WhenOpened": "2025-03-26T16:51:35.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Controllers\\HomeController.cs",
               "RelativeToolTip": "hw05_guestbook\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBkAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:19:44.296Z"
+              "WhenOpened": "2025-03-26T16:19:44.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "hw05_guestbook\\Views\\Account\\Register.cshtml",
@@ -87,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "hw05_guestbook\\Views\\Account\\Login.cshtml",
@@ -95,19 +182,21 @@
               "RelativeToolTip": "hw05_guestbook\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T19:19:18.463Z"
+              "WhenOpened": "2025-03-25T19:19:18.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook\\hw05_guestbook\\Controllers\\AccountController.cs",
               "RelativeToolTip": "hw05_guestbook\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA5AAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwDMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:04:05.727Z"
+              "WhenOpened": "2025-03-25T18:04:05.727Z",
+              "EditorCaption": ""
             }
           ]
         }
