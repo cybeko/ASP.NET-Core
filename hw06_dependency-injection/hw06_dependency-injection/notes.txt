@@ -1,0 +1,10 @@
+Name: Note1
+Text: First note text
+Date: 29.03.2025
+Tags: Tag1, Tag2
+ 
+Name: Note2
+Text: Second note text
+Date: 29.03.2025
+Tags: Tag1
+ 

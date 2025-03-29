@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TEMP\\hw05_guestbook_services\\",
+  "WorkspaceRootPath": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\temp\\hw05_guestbook_services\\hw05_guestbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\temp\\hw05_guestbook_services\\hw05_guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\models\\guestbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\guestbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\repository\\guestbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\repository\\guestbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\programming\\asp.net-core\\hw05_guestbook_services\\hw05_guestbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\models\\guestbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\guestbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\repository\\guestbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\repository\\guestbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\appsettings.json",
-              "RelativeDocumentMoniker": "hw05_guestbook\\appsettings.json",
-              "ToolTip": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\appsettings.json",
-              "RelativeToolTip": "hw05_guestbook\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T15:44:33.068Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -75,23 +62,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\appsettings.json",
+              "RelativeDocumentMoniker": "hw05_guestbook\\appsettings.json",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\appsettings.json",
+              "RelativeToolTip": "hw05_guestbook\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T15:44:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Program.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Program.cs",
-              "ToolTip": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Program.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Program.cs",
               "RelativeToolTip": "hw05_guestbook\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:31:17.491Z"
+              "WhenOpened": "2025-03-28T15:31:17.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Repository\\IRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Repository\\IRepository.cs",
-              "ToolTip": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Repository\\IRepository.cs",
               "RelativeToolTip": "hw05_guestbook\\Repository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +100,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GuestbookRepository.cs",
-              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Repository\\GuestbookRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Repository\\GuestbookRepository.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Repository\\GuestbookRepository.cs",
-              "ToolTip": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Repository\\GuestbookRepository.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Repository\\GuestbookRepository.cs",
               "RelativeToolTip": "hw05_guestbook\\Repository\\GuestbookRepository.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAowCEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,24 +112,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "hw05_guestbook\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "hw05_guestbook\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T15:24:23.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T15:24:23.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GuestbookModel.cs",
-              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Models\\GuestbookModel.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Models\\GuestbookModel.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Models\\GuestbookModel.cs",
-              "ToolTip": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Models\\GuestbookModel.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Models\\GuestbookModel.cs",
               "RelativeToolTip": "hw05_guestbook\\Models\\GuestbookModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GuestbookContext.cs",
-              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Models\\GuestbookContext.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Models\\GuestbookContext.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Models\\GuestbookContext.cs",
-              "ToolTip": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Models\\GuestbookContext.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Models\\GuestbookContext.cs",
               "RelativeToolTip": "hw05_guestbook\\Models\\GuestbookContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "hw05_guestbook\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\TEMP\\hw05_guestbook_services\\hw05_guestbook\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw05_guestbook_services\\hw05_guestbook\\Controllers\\AccountController.cs",
               "RelativeToolTip": "hw05_guestbook\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
