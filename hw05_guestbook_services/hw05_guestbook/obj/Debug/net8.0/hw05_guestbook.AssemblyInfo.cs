@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hw05_guestbook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d26d918f3bed3c906c3ddefac19c3c3bae3921b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26941982a3221c11eb4675ec3831ee8098adb62f")]
 [assembly: System.Reflection.AssemblyProductAttribute("hw05_guestbook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hw05_guestbook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
