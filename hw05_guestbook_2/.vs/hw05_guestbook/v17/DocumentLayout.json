@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEMP\\hw05_guestbook_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\temp\\hw05_guestbook_2\\hw05_guestbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\temp\\hw05_guestbook_2\\hw05_guestbook\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\temp\\hw05_guestbook_2\\hw05_guestbook\\repository\\guestbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\repository\\guestbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|d:\\temp\\hw05_guestbook_2\\hw05_guestbook\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C01149-2B9E-4B10-BAE8-FD084697A7A8}|hw05_guestbook\\hw05_guestbook.csproj|solutionrelative:hw05_guestbook\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Models\\LoginModel.cs",
+              "RelativeToolTip": "hw05_guestbook\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:39:29.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Repository\\IRepository.cs",
+              "RelativeToolTip": "hw05_guestbook\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:38:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestbookRepository.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Repository\\GuestbookRepository.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Repository\\GuestbookRepository.cs",
+              "ToolTip": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Repository\\GuestbookRepository.cs",
+              "RelativeToolTip": "hw05_guestbook\\Repository\\GuestbookRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:38:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Program.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Program.cs",
+              "ToolTip": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Program.cs",
+              "RelativeToolTip": "hw05_guestbook\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:31:52.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "hw05_guestbook\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAmwFUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:23:05.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "hw05_guestbook\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TEMP\\hw05_guestbook_2\\hw05_guestbook\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "hw05_guestbook\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T15:22:45.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

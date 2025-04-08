@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Music.DAL.EF
 {
-    internal class MusicContext : DbContext
+    public class MusicContext : DbContext
     {
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Author> Author { get; set; }

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Music.DAL.Repositories
 {
-    internal class EFUnitOfWork : IUnitOfWork
+    public class EFUnitOfWork : IUnitOfWork
     {
         private MusicContext db;
         private UserRepository userRepository;

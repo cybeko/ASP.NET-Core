@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|d:\\programming\\asp.net-core\\hw07_layered-architechture\\music.dal\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|solutionrelative:music.dal\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\music.dal\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|solutionrelative:music.dal\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\music.dal\\repositories\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|solutionrelative:music.dal\\repositories\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\music.dal\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|solutionrelative:music.dal\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\music.dal\\ef\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|solutionrelative:music.dal\\ef\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\music.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE22D6DA-E20D-4917-B0D2-F7DE3DE8153A}|Music.DAL\\Music.DAL.csproj|solutionrelative:music.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|d:\\programming\\asp.net-core\\hw07_layered-architechture\\music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|solutionrelative:music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -53,80 +33,16 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Music.DAL\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Music.DAL\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T09:11:51.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EFUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Repositories\\EFUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Music.DAL\\Repositories\\EFUnitOfWork.cs",
-              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Repositories\\EFUnitOfWork.cs",
-              "RelativeToolTip": "Music.DAL\\Repositories\\EFUnitOfWork.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T09:07:59.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MusicContext.cs",
-              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\EF\\MusicContext.cs",
-              "RelativeDocumentMoniker": "Music.DAL\\EF\\MusicContext.cs",
-              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\EF\\MusicContext.cs",
-              "RelativeToolTip": "Music.DAL\\EF\\MusicContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T09:07:44.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenreRepository.cs",
-              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Repositories\\GenreRepository.cs",
-              "RelativeDocumentMoniker": "Music.DAL\\Repositories\\GenreRepository.cs",
-              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Repositories\\GenreRepository.cs",
-              "RelativeToolTip": "Music.DAL\\Repositories\\GenreRepository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAmwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:49:12.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Music.DAL\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Music.DAL\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:49:11.039Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SongRepository.cs",
-              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Repositories\\SongRepository.cs",
-              "RelativeDocumentMoniker": "Music.DAL\\Repositories\\SongRepository.cs",
-              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.DAL\\Repositories\\SongRepository.cs",
-              "RelativeToolTip": "Music.DAL\\Repositories\\SongRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music\\Program.cs",
+              "RelativeDocumentMoniker": "Music\\Program.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music\\Program.cs",
+              "RelativeToolTip": "Music\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:48:54.244Z",
+              "WhenOpened": "2025-04-01T15:47:40.52Z",
               "EditorCaption": ""
             }
           ]

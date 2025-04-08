@@ -9,7 +9,7 @@ using Music.DAL.Entities;
 
 namespace Music.DAL.Interfaces
 {
-    internal interface IUnitOfWork
+    public interface IUnitOfWork
     {
         IRepository<User> Users { get; }
         IRepository<Admin> Admins { get; }

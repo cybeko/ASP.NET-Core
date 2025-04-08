@@ -1,0 +1,121 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<button id="loadMessagesButton" class="btn btn-primary">Load messages</button>
+<button id="toggleRegisterForm" class="btn btn-secondary ms-2">Register</button>
+<button id="toggleLoginForm" class="btn btn-secondary ms-2">Login</button>
+
+
+<div id="messagesContainer" class="mt-4"></div>
+
+<div id="registerFormContainer" class="mt-4" style="display: none;">
+    <h3>Регистрация</h3>
+    <div class="mb-3">
+        <label for="regLogin" class="form-label">Логин</label>
+        <input type="text" id="regLogin" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label for="regPassword" class="form-label">Пароль</label>
+        <input type="password" id="regPassword" class="form-control">
+    </div>
+    <button id="submitRegister" class="btn btn-success">Зарегистрироваться</button>
+    <div id="registerResult" class="mt-2"></div>
+</div>
+
+<div id="loginFormContainer" class="mt-4" style="display: none;">
+    <h3>Вход</h3>
+    <div class="mb-3">
+        <label for="loginLogin" class="form-label">Логин</label>
+        <input type="text" id="loginLogin" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label for="loginPassword" class="form-label">Пароль</label>
+        <input type="password" id="loginPassword" class="form-control">
+    </div>
+    <button id="submitLogin" class="btn btn-primary">Войти</button>
+    <div id="loginResult" class="mt-2"></div>
+</div>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#loadMessagesButton').click(function () {
+                $.get('/Home/GetMessages', function (data) {
+                    let tableHtml = `
+                                <table class="table table-bordered mt-3">
+                                    <thead>
+                                        <tr>
+                                            <th>User Login</th>
+                                            <th>Message</th>
+                                            <th>Date</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                            `;
+                    data.forEach(function (message) {
+                        tableHtml += `
+                                    <tr>
+                                        <td>${message.user.login}</td>
+                                        <td>${message.text}</td>
+                                        <td>${new Date(message.dateTime).toLocaleString()}</td>
+                                    </tr>
+                                `;
+                    });
+                    tableHtml += `</tbody></table>`;
+                    $('#messagesContainer').html(tableHtml);
+                });
+            });
+
+            $('#toggleRegisterForm').click(function () {
+                $('#registerFormContainer').toggle();
+            });
+
+            $('#submitRegister').click(function () {
+                let login = $('#regLogin').val();
+                let password = $('#regPassword').val();
+
+                $.ajax({
+                    url: '/Home/RegisterAjax',
+                    method: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({ login, password }),
+                    success: function (response) {
+                        $('#registerResult').html(`<span class="text-success">${response.message}</span>`);
+                        $('#regLogin, #regPassword').val('');
+                    },
+                    error: function (xhr) {
+                        let response = xhr.responseJSON;
+                        $('#registerResult').html(`<span class="text-danger">${response?.message ?? 'Error'}</span>`);
+                    }
+                });
+            });
+            $('#toggleLoginForm').click(function () {
+                $('#loginFormContainer').toggle();
+            });
+
+            $('#submitLogin').click(function () {
+                let login = $('#loginLogin').val();
+                let password = $('#loginPassword').val();
+
+                $.ajax({
+                    url: '/Home/LoginAjax',
+                    method: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({ login, password }),
+                    success: function (response) {
+                        $('#loginResult').html(`<span class="text-success">${response.message}</span>`);
+                        $('#loginLogin, #loginPassword').val('');
+                    },
+                    error: function (xhr) {
+                        let response = xhr.responseJSON;
+                        $('#loginResult').html(`<span class="text-danger">${response?.message ?? 'Error'}</span>`);
+                    }
+                });
+            });
+
+        });
+    </script>
+}
