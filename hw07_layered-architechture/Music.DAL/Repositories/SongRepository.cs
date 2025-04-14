@@ -27,7 +27,7 @@ namespace Music.DAL.Repositories
 
         public async Task Delete(int id)
         {
-            Song? song = await db.Songs.FindAsync(id);
+            var song = await db.Songs.FindAsync(id);
             if (song != null)
             {
                 db.Songs.Remove(song);
@@ -35,28 +35,19 @@ namespace Music.DAL.Repositories
             }
         }
 
-        public async Task<Song?> Get(int id)
+        public async Task<Song> Get(int id)
         {
-            return await db.Songs
-                .Include(s => s.Author)
-                .Include(s => s.Genre)
-                .FirstOrDefaultAsync(s => s.Id == id);
+            return await db.Songs.FindAsync(id);
         }
 
-        public async Task<Song?> Get(string name)
+        public async Task<Song> Get(string name)
         {
-            return await db.Songs
-                .Include(s => s.Author)
-                .Include(s => s.Genre)
-                .FirstOrDefaultAsync(s => s.Title == name);
+            return await db.Songs.FirstOrDefaultAsync(s => s.Title == name);
         }
 
         public async Task<IEnumerable<Song>> GetAll()
         {
-            return await db.Songs
-                .Include(s => s.Author)
-                .Include(s => s.Genre)
-                .ToListAsync();
+            return await db.Songs.ToListAsync();
         }
 
         public void Update(Song item)

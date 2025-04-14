@@ -12,10 +12,7 @@ namespace Music.DAL.Interfaces
     public interface IUnitOfWork
     {
         IRepository<User> Users { get; }
-        IRepository<Admin> Admins { get; }
-        IRepository<Author> Authors { get; }
         IRepository<Song> Songs { get; }
-        IRepository<Genre> Genres { get; }
         Task Save();
     }
 }

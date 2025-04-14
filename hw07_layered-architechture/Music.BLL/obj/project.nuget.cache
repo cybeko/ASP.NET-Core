@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tkMKO1urNgZ3CydEyDn5cUWcM2ejXsVi4AdWFr2oGdbrnkTjTJfaDcAMISXwQDifncxfUgWk/H49aneDfg8V2g==",
+  "dgSpecHash": "g2q9cB0IZ1M=",
   "success": true,
   "projectFilePath": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music.BLL\\Music.BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

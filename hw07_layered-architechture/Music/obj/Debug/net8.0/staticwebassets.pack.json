@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Music.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Music.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Music.b9edjhlt4y.bundle.scp.css"
     },
     {
       "Id": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "D:\\Programming\\ASP.NET-Core\\hw07_layered-architechture\\Music\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Music.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Music.Microsoft.AspNetCore.StaticWebAssets.props",

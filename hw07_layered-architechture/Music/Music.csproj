@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Songs\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Music.BLL\Music.BLL.csproj" />
   </ItemGroup>
 

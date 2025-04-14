@@ -1,8 +1,53 @@
-﻿@{
+﻿@model Music.BLL.DTO.SongDTO
+@{
     ViewData["Title"] = "Home Page";
+    var songs = ViewBag.Songs as IEnumerable<Music.BLL.DTO.SongDTO>;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h3>Create a Song</h3>
+
+<form asp-controller="Songs" asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Author"></label>
+        <input asp-for="Author" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Genre"></label>
+        <input asp-for="Genre" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Create</button>
+</form>
+
+@if (songs != null && songs.Any())
+{
+    <hr />
+    <h3>Song List</h3>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genre</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var song in songs)
+            {
+                <tr>
+                    <td>@song.Title</td>
+                    <td>@song.Author</td>
+                    <td>@song.Genre</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
