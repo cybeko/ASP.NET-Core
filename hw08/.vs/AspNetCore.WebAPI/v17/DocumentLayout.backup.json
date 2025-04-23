@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\ASP.NET-Core\\hw08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|d:\\programming\\asp.net-core\\hw08\\aspnetcore.webapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|d:\\programming\\asp.net-core\\hw08\\aspnetcore.webapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|d:\\programming\\asp.net-core\\hw08\\aspnetcore.webapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|d:\\programming\\asp.net-core\\hw08\\aspnetcore.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|d:\\programming\\asp.net-core\\hw08\\aspnetcore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6AC039-6FC5-4430-9E8C-BBC0E8823A6E}|AspNetCore.WebAPI\\AspNetCore.WebAPI.csproj|solutionrelative:aspnetcore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "AspNetCore.WebAPI\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:39:51.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\appsettings.json",
+              "RelativeToolTip": "AspNetCore.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T16:36:18.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\wwwroot\\index.html",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\wwwroot\\index.html",
+              "RelativeToolTip": "AspNetCore.WebAPI\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-22T16:36:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\Program.cs",
+              "RelativeToolTip": "AspNetCore.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:35:54.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "AspNetCore.WebAPI\\Models\\Teacher.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\Models\\Teacher.cs",
+              "RelativeToolTip": "AspNetCore.WebAPI\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:35:15.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

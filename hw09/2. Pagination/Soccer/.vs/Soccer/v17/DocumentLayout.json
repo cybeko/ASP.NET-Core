@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|d:\\programming\\asp.net-core\\hw09\\2. pagination\\soccer\\soccer\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|solutionrelative:soccer\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|d:\\programming\\asp.net-core\\hw09\\2. pagination\\soccer\\soccer\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|solutionrelative:soccer\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|d:\\programming\\asp.net-core\\hw09\\2. pagination\\soccer\\soccer\\models\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|solutionrelative:soccer\\models\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|d:\\programming\\asp.net-core\\hw09\\2. pagination\\soccer\\soccer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|solutionrelative:soccer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|d:\\programming\\asp.net-core\\hw09\\2. pagination\\soccer\\soccer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|solutionrelative:soccer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|d:\\programming\\asp.net-core\\hw09\\2. pagination\\soccer\\soccer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CF4AAB-6818-4D1D-A1DB-AA9967B67243}|Soccer\\Soccer.csproj|solutionrelative:soccer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Soccer\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "Soccer\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:28:34.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Soccer\\Controllers\\TeamsController.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Soccer\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:28:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Models\\PageViewModel.cs",
+              "RelativeDocumentMoniker": "Soccer\\Models\\PageViewModel.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Models\\PageViewModel.cs",
+              "RelativeToolTip": "Soccer\\Models\\PageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:24:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Soccer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Soccer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:23:27.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\appsettings.json",
+              "RelativeDocumentMoniker": "Soccer\\appsettings.json",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\appsettings.json",
+              "RelativeToolTip": "Soccer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T11:52:17.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Program.cs",
+              "RelativeDocumentMoniker": "Soccer\\Program.cs",
+              "ToolTip": "D:\\Programming\\ASP.NET-Core\\hw09\\2. Pagination\\Soccer\\Soccer\\Program.cs",
+              "RelativeToolTip": "Soccer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:52:14.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

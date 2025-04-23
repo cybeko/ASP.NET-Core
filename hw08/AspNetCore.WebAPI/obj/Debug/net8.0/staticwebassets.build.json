@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "F2vKLRJ27+hOmhduFZ0MBTqBGz0dywOS4UQfPectN38=",
+  "Source": "AspNetCore.WebAPI",
+  "BasePath": "_content/AspNetCore.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetCore.WebAPI\\wwwroot",
+      "Source": "AspNetCore.WebAPI",
+      "ContentRoot": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\wwwroot\\",
+      "BasePath": "_content/AspNetCore.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\wwwroot\\index.html",
+      "SourceId": "AspNetCore.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\wwwroot\\",
+      "BasePath": "_content/AspNetCore.WebAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "618v4lc451",
+      "Integrity": "avKCIhSbhtQO5k8dFlYc04WEmD1r/nFkKJthOyR06Fs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.618v4lc451.html",
+      "AssetFile": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"avKCIhSbhtQO5k8dFlYc04WEmD1r/nFkKJthOyR06Fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 16:40:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "618v4lc451"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-avKCIhSbhtQO5k8dFlYc04WEmD1r/nFkKJthOyR06Fs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"avKCIhSbhtQO5k8dFlYc04WEmD1r/nFkKJthOyR06Fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 16:40:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-avKCIhSbhtQO5k8dFlYc04WEmD1r/nFkKJthOyR06Fs="
+        }
+      ]
+    }
+  ]
+}

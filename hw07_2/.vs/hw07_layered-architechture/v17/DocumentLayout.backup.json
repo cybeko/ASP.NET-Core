@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEMP\\hw07_layered-architechture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|d:\\temp\\hw07_layered-architechture\\music\\controllers\\songsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|solutionrelative:music\\controllers\\songsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|d:\\temp\\hw07_layered-architechture\\music\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|solutionrelative:music\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|d:\\temp\\hw07_layered-architechture\\music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|solutionrelative:music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ECC2F-5230-4FDC-AFD2-065836E15C11}|Music.BLL\\Music.BLL.csproj|d:\\temp\\hw07_layered-architechture\\music.bll\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ECC2F-5230-4FDC-AFD2-065836E15C11}|Music.BLL\\Music.BLL.csproj|solutionrelative:music.bll\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|d:\\temp\\hw07_layered-architechture\\music\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D84CEAB8-8BD2-458D-81C0-895F9488984A}|Music\\Music.csproj|solutionrelative:music\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SongsApiController.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw07_layered-architechture\\Music\\Controllers\\SongsApiController.cs",
+              "RelativeDocumentMoniker": "Music\\Controllers\\SongsApiController.cs",
+              "ToolTip": "D:\\TEMP\\hw07_layered-architechture\\Music\\Controllers\\SongsApiController.cs",
+              "RelativeToolTip": "Music\\Controllers\\SongsApiController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:58:27.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw07_layered-architechture\\Music\\Program.cs",
+              "RelativeDocumentMoniker": "Music\\Program.cs",
+              "ToolTip": "D:\\TEMP\\hw07_layered-architechture\\Music\\Program.cs",
+              "RelativeToolTip": "Music\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:57:30.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.html",
+              "DocumentMoniker": "D:\\TEMP\\hw07_layered-architechture\\Music\\wwwroot\\admin.html",
+              "RelativeDocumentMoniker": "Music\\wwwroot\\admin.html",
+              "ToolTip": "D:\\TEMP\\hw07_layered-architechture\\Music\\wwwroot\\admin.html",
+              "RelativeToolTip": "Music\\wwwroot\\admin.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-23T15:56:59.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TEMP\\hw07_layered-architechture\\Music\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TEMP\\hw07_layered-architechture\\Music\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Music\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:49:32.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongService.cs",
+              "DocumentMoniker": "D:\\TEMP\\hw07_layered-architechture\\Music.BLL\\Services\\SongService.cs",
+              "RelativeDocumentMoniker": "Music.BLL\\Services\\SongService.cs",
+              "ToolTip": "D:\\TEMP\\hw07_layered-architechture\\Music.BLL\\Services\\SongService.cs",
+              "RelativeToolTip": "Music.BLL\\Services\\SongService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:48:07.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

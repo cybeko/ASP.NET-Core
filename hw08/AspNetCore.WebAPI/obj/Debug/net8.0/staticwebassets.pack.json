@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programming\\ASP.NET-Core\\hw08\\AspNetCore.WebAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspNetCore.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspNetCore.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AspNetCore.WebAPI.props",
+      "PackagePath": "build\\AspNetCore.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetCore.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\AspNetCore.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AspNetCore.WebAPI.props",
+      "PackagePath": "buildTransitive\\AspNetCore.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

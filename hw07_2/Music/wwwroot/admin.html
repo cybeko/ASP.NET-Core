@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+</head>
+<body>
+    <h2>Song List</h2>
+    <ul id="songs"></ul>
+
+    <h3>Create Song</h3>
+    <form id="create-form">
+        <input type="text" id="title" placeholder="Title" />
+        <input type="text" id="author" placeholder="Author" />
+        <input type="text" id="genre" placeholder="Genre" />
+        <button type="submit">Add</button>
+    </form>
+
+    <script>
+        const apiBase = 'http://localhost:7105/api/songs';
+
+        async function loadSongs() {
+            const res = await fetch(apiBase);
+            const songs = await res.json();
+            const list = document.getElementById('songs');
+            list.innerHTML = '';
+            songs.forEach(song => {
+                const item = document.createElement('li');
+                item.textContent = `${song.title} - ${song.author} (${song.genre})`;
+                list.appendChild(item);
+            });
+        }
+
+        document.getElementById('create-form').addEventListener('submit', async e => {
+            e.preventDefault();
+            const title = document.getElementById('title').value;
+            const author = document.getElementById('author').value;
+            const genre = document.getElementById('genre').value;
+
+            await fetch(apiBase, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({title, author, genre})
+            });
+
+            loadSongs();
+        });
+
+        loadSongs();
+    </script>
+</body>
+</html>
